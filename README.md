@@ -7,7 +7,7 @@ should be able to use this to parse inbound ping post API traffic.
 
 To install Jangl Webleads Inbound, run this command in your terminal:
 ```
-pip install jangl-webleads-inbound
+pip install -i https://pypi.jangl.com/pypi/ jangl-webleads-inbound
 ```
 
 ## Usage
