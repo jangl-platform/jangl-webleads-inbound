@@ -8,6 +8,3 @@ verify_ssl = true
 [packages]
 django = "*"
 djangorestframework = "*"
-
-[requires]
-python_version = "2.7"
